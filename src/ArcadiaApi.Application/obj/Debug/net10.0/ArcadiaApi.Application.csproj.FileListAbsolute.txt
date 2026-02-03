@@ -1,0 +1,16 @@
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/bin/Debug/net10.0/ArcadiaApi.Application.deps.json
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/bin/Debug/net10.0/ArcadiaApi.Application.dll
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/bin/Debug/net10.0/ArcadiaApi.Application.pdb
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/bin/Debug/net10.0/ArcadiaApi.Domain.dll
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/bin/Debug/net10.0/ArcadiaApi.Domain.pdb
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.csproj.AssemblyReference.cache
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.AssemblyInfoInputs.cache
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.AssemblyInfo.cs
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.csproj.CoreCompileInputs.cache
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.sourcelink.json
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaA.44C69361.Up2Date
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.dll
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/refint/ArcadiaApi.Application.dll
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ArcadiaApi.Application.pdb
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Application/obj/Debug/net10.0/ref/ArcadiaApi.Application.dll

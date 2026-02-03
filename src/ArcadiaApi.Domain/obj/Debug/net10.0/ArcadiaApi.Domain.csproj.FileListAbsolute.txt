@@ -1,0 +1,12 @@
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/bin/Debug/net10.0/ArcadiaApi.Domain.deps.json
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/bin/Debug/net10.0/ArcadiaApi.Domain.dll
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/bin/Debug/net10.0/ArcadiaApi.Domain.pdb
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ArcadiaApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ArcadiaApi.Domain.AssemblyInfoInputs.cache
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ArcadiaApi.Domain.AssemblyInfo.cs
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ArcadiaApi.Domain.csproj.CoreCompileInputs.cache
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ArcadiaApi.Domain.sourcelink.json
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ArcadiaApi.Domain.dll
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/refint/ArcadiaApi.Domain.dll
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ArcadiaApi.Domain.pdb
+/home/mutley/Desktop/SuperHeroGraphql/src/ArcadiaApi.Domain/obj/Debug/net10.0/ref/ArcadiaApi.Domain.dll

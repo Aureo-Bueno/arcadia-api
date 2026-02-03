@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/SuperHeroesGraphQL.csproj",
+                "${workspaceFolder}/src/ArcadiaApi.Api/ArcadiaApi.Api.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/SuperHeroesGraphQL.csproj",
+                "${workspaceFolder}/src/ArcadiaApi.Api/ArcadiaApi.Api.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/SuperHeroesGraphQL.csproj"
+                "${workspaceFolder}/src/ArcadiaApi.Api/ArcadiaApi.Api.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
